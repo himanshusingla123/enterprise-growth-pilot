@@ -9,6 +9,7 @@ import { Switch } from '@/components/ui/switch';
 import { Separator } from '@/components/ui/separator';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import { Save, Bell, Lock, Users, Globe, Database, Wrench } from 'lucide-react';
+import { users } from '../data/mockData';
 
 const Settings = () => {
   return (
